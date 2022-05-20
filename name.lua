@@ -16,7 +16,7 @@ local cool = { -- Userid, Title, Color (1 = rainbow, 0 = no rainbow, 2 = pink, 3
     {3207813237, "legendary", 1},
     {1239668957, "icon1c", 3},
     {2721124329, "rqmane", 3},
-    {1964094116, "wuto UwU", 2},
+    {1964094116, "wuto UwU", 1},
     {516034734, "dib dob", 2},
     {79685992, "cat girl KAID", 2},
     {495913994, "god father lix", 1},
