@@ -11,7 +11,7 @@ if syn then
     syn.protect_gui(UI)
 end
 
-local cool = { -- Userid, Title, Color (1 = rainbow, 0 = no rainbow, 2 = pink, 3 = blue)
+local cool = { -- Userid, Title, Color (1 = rainbow, 0 = no rainbow, 2 = pink, 3 = blue, 4 = brown, 5 = black)
     {418133103, "legendary", 1},
     {3207813237, "legendary", 1},
     {1239668957, "icon1c", 3},
@@ -51,8 +51,8 @@ local cool = { -- Userid, Title, Color (1 = rainbow, 0 = no rainbow, 2 = pink, 3
     {3065223306, "HoldingW", 3},
     {2435027122, "kroneW", 1},
     {2338962625, "sky / flopa", 1},
-    {1752174289, "skulldrain", 1},
-    {128715333, "POP", 1},
+    {1752174289, "skulldrain is back", 5},
+    {128715333, "BLACKED.COM", 5},
     {142804804, "cute femboy cotra", 1},
     {2348564884, "legendary", 1},
     {1964094116, "Nigger", 4}
@@ -97,6 +97,9 @@ local function ApplyTag(player, text, num)
     end
     if num == 4 then
         tag.Nameplate.TextColor3 = Color3.fromRGB(165, 42, 42)
+    end
+    if num == 5 then
+        tag.Nameplate.TextColor3 = Color3.fromRGB(0, 0, 0)
     end
     tag.Parent = player.Character:WaitForChild("Head")
 end
