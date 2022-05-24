@@ -24,7 +24,7 @@ local cool = { -- Userid, Title, Color (1 = rainbow, 0 = no rainbow, 2 = pink, 3
     {2356433704, "god father lix", 1},
     {2412626785, "tim / ages", 3},
     {14130, "oliver the GOAT", 3},
-    {3016604171, "Anarky The Cum Guzzler", 3},
+    {3016604171, "Anarky The HalfLife Fanboy", 3},
     {3354104299, "useless#0001", 1},
     {1414978355, "Anthony (omg)", 1},
     {1769817396, "CHEZBURGER!!!", 2},
