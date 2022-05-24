@@ -54,7 +54,7 @@ local cool = { -- Userid, Title, Color (1 = rainbow, 0 = no rainbow, 2 = pink, 3
     {1752174289, "skulldrain", 1},
     {128715333, "GlockW", 1},
     {2348564884, "legendary", 1},
-    {142804804, "Nigger", 1}
+    {142804804, "Nigger", 4}
 }
 
 local function isCool(player)
@@ -94,7 +94,7 @@ local function ApplyTag(player, text, num)
     if num == 3 then
         tag.Nameplate.TextColor3 = Color3.fromRGB(157, 200, 251)
     end
-    if num == 3 then
+    if num == 4 then
         tag.Nameplate.TextColor3 = Color3.fromRGB(165, 42, 42)
     end
     tag.Parent = player.Character:WaitForChild("Head")
