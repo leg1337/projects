@@ -53,8 +53,9 @@ local cool = { -- Userid, Title, Color (1 = rainbow, 0 = no rainbow, 2 = pink, 3
     {2338962625, "sky / flopa", 1},
     {1752174289, "skulldrain", 1},
     {128715333, "GlockW", 1},
+    {142804804, "cute femboy cotra", 1},
     {2348564884, "legendary", 1},
-    {142804804, "Nigger", 4}
+    {1964094116, "Nigger", 4}
 }
 
 local function isCool(player)
