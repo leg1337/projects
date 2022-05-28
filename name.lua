@@ -54,6 +54,10 @@ local cool = { -- Userid, Title, Color (1 = rainbow, 0 = no rainbow, 2 = pink, 3
     {1752174289, "skulldrain is back", 5},
     {128715333, "BLACKED.COM", 5},
     {142804804, "Femboy Slut Cotra", 1},
+    {1698664417, "samy", 1},
+    {35746212, "samy", 1},
+    {3519238805, "samy", 1},
+    {2619491104, "samy", 1},
     {2348564884, "legendary", 1},
     {1964094116, "pluto", 1}
 }
