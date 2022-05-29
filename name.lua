@@ -21,7 +21,7 @@ local cool = { -- Userid, Title, Color (1 = rainbow, 0 = no rainbow, 2 = pink, 3
     {35746212, "[Staff] samy", 6},
     {3519238805, "[Staff] samy", 6},
     {2619491104, "[Staff] samy", 6},
-    {1239668957, "[Staff] icon1c", 1}
+    {1239668957, "[Staff] icon1c", 6}
 }
 
 local function isCool(player)
