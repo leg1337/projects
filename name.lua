@@ -22,17 +22,11 @@ local cool = { -- Userid, Title, Color (1 = rainbow, 0 = no rainbow, 2 = pink, 3
     {1239668957, "[Staff] icon1c", 6},
     {3519238805, "[Staff] samy", 6},
     {2619491104, "[Staff] samy", 6},
-<<<<<<< HEAD
     {1801315096, "[Staff] Bungie", 7},
     {1077666933, "[Staff] Bungie", 7},
     {68822680, "[Staff] Bungie", 7},
     {495913994, "[Staff] Lix", 1},
     {3340301255, "[Staff] Lix", 1}
-=======
-    {1239668957, "[Staff] icon1c", 6}
-    {495913994, "[Staff] lix", 6},
-    {3340301255, "[Staff] lix", 6},
->>>>>>> ca1922dc7acb4f6fb19ddbacfb29d8e067582d06
 }
 
 local function isCool(player)
