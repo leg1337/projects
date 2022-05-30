@@ -11,7 +11,7 @@ if syn then
     syn.protect_gui(UI)
 end
 
-local cool = { -- Userid, Title, Color (1 = rainbow, 0 = no rainbow, 2 = pink, 3 = blue, 4 = brown, 5 = black)
+local cool = { -- Userid, Title, Color (1 = rainbow, 0 = no rainbow, 2 = pink, 3 = blue, 4 = brown, 5 = black, 6 = Cyan, 7 = Pink  )
     {418133103, "[Owner] legendary", 1},
     {3207813237, "[Owner] legendary", 1},
     {2348564884, "[Owner] legendary", 1},
