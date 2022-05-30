@@ -19,9 +19,14 @@ local cool = { -- Userid, Title, Color (1 = rainbow, 0 = no rainbow, 2 = pink, 3
     {142804804, "[Co Owner] Cotra", 1},
     {1698664417, "[Staff] samy", 6},
     {35746212, "[Staff] samy", 6},
+    {1239668957, "[Staff] icon1c", 6},
     {3519238805, "[Staff] samy", 6},
     {2619491104, "[Staff] samy", 6},
-    {1239668957, "[Staff] icon1c", 6}
+    {1801315096, "[Staff] Bungie", 7},
+    {1077666933, "[Staff] Bungie", 7},
+    {68822680, "[Staff] Bungie", 7},
+    {495913994, "[Staff] Lix", 1},
+    {3340301255, "[Staff] Lix", 1}
 }
 
 local function isCool(player)
@@ -69,6 +74,9 @@ local function ApplyTag(player, text, num)
     end
     if num == 6 then
         tag.Nameplate.TextColor3 = Color3.fromRGB(0, 255, 255)
+    end
+    if num == 7 then
+        tag.Nameplate.TextColor3 = Color3.fromRGB(184,124,245)
     end
     tag.Parent = player.Character:WaitForChild("Head")
 end
