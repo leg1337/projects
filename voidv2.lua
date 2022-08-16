@@ -1,4 +1,6 @@
--- \\ void by legendary#001 | 830527702854402068
+-- \\ void by legendary#0001 | 830527702854402068
+
+-- \\ credits to i_db for the resize
 
 
 local t = "swat" -- insert target
